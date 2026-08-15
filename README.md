@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0189-rotate-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0001-two-sum) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Design
