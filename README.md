@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0507-perfect-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1137-n-th-tribonacci-number) |
+| [1952-three-divisors](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1952-three-divisors) |
 ## Primality Test
 |  |
 | ------- |
@@ -123,8 +126,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0204-count-primes) |
+| [1952-three-divisors](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1952-three-divisors) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0204-count-primes) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
