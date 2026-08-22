@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0493-reverse-pairs) |
 | [0896-monotonic-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0896-monotonic-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0229-majority-element-ii) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Design
@@ -138,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1952-three-divisors) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
