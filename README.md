@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2929-distribute-candies-among-children-ii) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,4 +159,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2929-distribute-candies-among-children-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2929-distribute-candies-among-children-ii) |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
