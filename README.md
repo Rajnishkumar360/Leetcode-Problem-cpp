@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1137-n-th-tribonacci-number) |
 | [1952-three-divisors](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2929-distribute-candies-among-children-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2929-distribute-candies-among-children-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1952-three-divisors) |
+| [2929-distribute-candies-among-children-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2929-distribute-candies-among-children-ii) |
 ## Primality Test
 |  |
 | ------- |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0229-majority-element-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [2929-distribute-candies-among-children-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2929-distribute-candies-among-children-ii) |
 <!---LeetCode Topics End-->
