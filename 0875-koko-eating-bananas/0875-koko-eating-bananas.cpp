@@ -7,7 +7,7 @@ public:
             int mid = low + (high-low)/2;
             long long th = 0;
             for(int pile : piles){
-                th += (pile + mid -1)/mid; // find ceil value means largest value;
+                th += (long long)ceil((double)pile / mid);;
             }
             if(th<=h){
                 high = mid -1;
