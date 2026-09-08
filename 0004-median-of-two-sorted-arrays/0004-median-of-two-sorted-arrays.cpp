@@ -3,7 +3,7 @@ public:
     vector<int> mergeArray(vector<int>& arr1, vector<int>& arr2) {
         int n = arr1.size();
         int m = arr2.size();
-        int i = 0, j = 0;
+        int i = 0, j = 0;// two pointer
         vector<int> ans;
         while (i < n && j < m) {
             if (arr1[i] <= arr2[j]) {
