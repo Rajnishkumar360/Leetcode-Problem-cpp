@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2929-distribute-candies-among-children-ii) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3870-count-commas-in-range](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
