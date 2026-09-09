@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0392-is-subsequence) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0392-is-subsequence) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0392-is-subsequence) |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
