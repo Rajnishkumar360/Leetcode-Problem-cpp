@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1865-finding-pairs-with-a-certain-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3875-construct-uniform-parity-array-i) |
 ## Math
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1539-kth-missing-positive-number) |
+| [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
