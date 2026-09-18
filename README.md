@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0035-search-insert-position) |
 | [0073-set-matrix-zeroes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0136-single-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
@@ -302,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
