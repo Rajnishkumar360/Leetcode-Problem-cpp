@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0410-split-array-largest-sum) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0451-sort-characters-by-frequency) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0131-palindrome-partitioning) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
