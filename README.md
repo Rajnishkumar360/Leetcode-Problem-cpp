@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0473-matchsticks-to-square) |
 | [0493-reverse-pairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0896-monotonic-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0494-target-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1137-n-th-tribonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0131-palindrome-partitioning) |
 | [0473-matchsticks-to-square](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0473-matchsticks-to-square) |
+| [0494-target-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0494-target-sum) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -353,4 +356,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0473-matchsticks-to-square) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
