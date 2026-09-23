@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0189-rotate-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0206-reverse-linked-list) |
