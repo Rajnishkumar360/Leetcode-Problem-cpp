@@ -10,25 +10,19 @@
  */
 class Solution {
 public:
-    int CountVar(ListNode* head){
-        int count = 0;
-        while(head!=NULL){
-            count++;
-            head = head->next;
-        }
-        return count;
-    }
     ListNode* swapNodes(ListNode* head, int k) {
-        int m = CountVar(head);
         ListNode* first = head;
-        for(int i=1;i<k;i++){
+        for(int i = 1; i < k; i++){
             first = first->next;
         }
+        ListNode* kthFromStart = first;
         ListNode* second = head;
-        for(int i=1;i<m-k+1;i++){
+        ListNode* temp = first;
+        while(temp->next != NULL){
+            temp = temp->next;
             second = second->next;
         }
-        swap(first->val,second->val);
+        swap(kthFromStart->val, second->val);
         return head;
     }
 };
