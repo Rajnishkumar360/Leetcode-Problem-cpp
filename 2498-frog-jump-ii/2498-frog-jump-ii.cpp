@@ -1,16 +1,24 @@
 class Solution {
 public:
+    vector<int> dp;
+    int solve(vector<int>& stones, int i) {
+        if (i == 0) {
+            return 0;
+        }
+        if (dp[i] != -1) {
+            return dp[i];
+        }
+        if (i == 1) {
+            return dp[i] = stones[1] - stones[0];
+        }
+        return dp[i] = max(
+            solve(stones, i - 2),
+            stones[i] - stones[i - 2]
+        );
+    }
     int maxJump(vector<int>& stones) {
         int n = stones.size();
-        if (n == 2) {
-            return stones[1] - stones[0];
-        }
-        vector<int> dp(n, 0);
-        dp[0] = 0;
-        dp[1] = stones[1] - stones[0];
-        for (int i = 2; i < n; i++) {
-            dp[i] = max(dp[i - 2], stones[i] - stones[i - 2]);
-        }
-        return max(dp[n - 1], dp[n - 2]);
+        dp = vector<int>(n, -1);
+        return max(solve(stones, n - 1), solve(stones, n - 2));
     }
 };
