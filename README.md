@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0507-perfect-number) |
+| [1025-divisor-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1137-n-th-tribonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1903-largest-odd-number-in-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0740-delete-and-earn) |
+| [1025-divisor-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1137-n-th-tribonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
@@ -385,4 +387,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0494-target-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
