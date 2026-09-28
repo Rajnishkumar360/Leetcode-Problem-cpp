@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0078-subsets) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0131-palindrome-partitioning) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0493-reverse-pairs) |
