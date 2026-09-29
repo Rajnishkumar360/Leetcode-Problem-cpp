@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0204-count-primes) |
 | [0507-perfect-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0507-perfect-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0131-palindrome-partitioning) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1137-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
