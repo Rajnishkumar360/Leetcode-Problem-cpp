@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -308,11 +309,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String Matching
 |  |
