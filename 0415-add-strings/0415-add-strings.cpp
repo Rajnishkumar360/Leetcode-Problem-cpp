@@ -5,7 +5,7 @@ public:
         int i = num1.length() - 1;
         int j = num2.length() - 1;
         int carry = 0;
-        result.reserve(max(num1.length(), num2.length()) + 1);
+       // result.reserve(max(num1.length(), num2.length()) + 1);
         while (i >= 0 || j >= 0 || carry > 0) {
             int digit1 = 0;
             int digit2 = 0;
@@ -17,7 +17,8 @@ public:
             }
             int sum = digit1 + digit2 + carry;
             carry = sum / 10;
-            result.push_back((sum % 10) + '0');
+            int curr_digit = sum % 10;
+            result.push_back(curr_digit + '0');
 
             i--;
             j--;
