@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1903-largest-odd-number-in-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2498-frog-jump-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2498-frog-jump-ii) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
