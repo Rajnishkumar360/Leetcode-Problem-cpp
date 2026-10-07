@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0151-reverse-words-in-a-string) |
+| [0301-remove-invalid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0451-sort-characters-by-frequency) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0473-matchsticks-to-square](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0494-target-sum) |
 ## Floyd's Cycle Finding Algorithm
@@ -475,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1025-divisor-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
