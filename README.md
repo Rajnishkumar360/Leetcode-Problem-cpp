@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0227-basic-calculator-ii) |
 | [0415-add-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0507-perfect-number) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0227-basic-calculator-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0392-is-subsequence) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0032-longest-valid-parentheses) |
+| [0224-basic-calculator](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0678-valid-parenthesis-string) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0025-reverse-nodes-in-k-group) |
 | [0060-permutation-sequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1823-find-the-winner-of-the-circular-game) |
