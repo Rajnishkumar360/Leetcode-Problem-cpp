@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0070-climbing-stairs) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0234-palindrome-linked-list) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1545-find-kth-bit-in-nth-binary-string) |
