@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2498-frog-jump-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2498-frog-jump-ii) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3524-find-x-value-of-array-i) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1952-three-divisors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2929-distribute-candies-among-children-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3483-unique-3-digit-even-numbers) |
 ## Primality Test
