@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2498-frog-jump-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2498-frog-jump-ii) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3524-find-x-value-of-array-i) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1463-cherry-pickup-ii) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3524-find-x-value-of-array-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3524-find-x-value-of-array-i) |
 ## Binary Search
@@ -483,10 +485,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0494-target-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0494-target-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Brainteaser
 |  |
 | ------- |
