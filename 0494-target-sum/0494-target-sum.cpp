@@ -1,18 +1,17 @@
 class Solution {
 public:
-    int backtrack(vector<int>&nums,int target,int idx,int sum){
-       if(idx==nums.size()){
-        if (sum == target) {
-            return 1;
-        } else {
-          return 0;
-          }
-       }
-       int add = backtrack(nums,target,idx+1,sum+nums[idx]);
-       int sub = backtrack(nums,target,idx+1,sum-nums[idx]);
-       return add+sub;
+    int helper(vector<int>& nums, int i, int sum, int target, unordered_map<string,int>& dp) {
+        if (i == nums.size()) {
+            return sum == target ? 1 : 0;
+        }
+        string key = to_string(i) + "," + to_string(sum);
+        if (dp.count(key)) return dp[key];
+        int add = helper(nums, i+1, sum + nums[i], target, dp);
+        int subtract = helper(nums, i+1, sum - nums[i], target, dp);
+        return dp[key] = add + subtract;
     }
     int findTargetSumWays(vector<int>& nums, int target) {
-        return backtrack(nums,target,0,0);
+        unordered_map<string,int> dp;
+        return helper(nums, 0, 0, target, dp);
     }
 };
