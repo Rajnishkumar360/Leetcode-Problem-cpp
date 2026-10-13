@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0896-monotonic-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1049-last-stone-weight-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1049-last-stone-weight-ii) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1025-divisor-game) |
 | [1049-last-stone-weight-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1137-n-th-tribonacci-number) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1463-cherry-pickup-ii) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0451-sort-characters-by-frequency) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
@@ -363,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1903-largest-odd-number-in-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
