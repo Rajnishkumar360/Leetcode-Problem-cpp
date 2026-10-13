@@ -1,21 +1,19 @@
 class Solution {
 public:
-    int lastStoneWeightII(vector<int>& stones) {
-        int sum = accumulate(stones.begin(), stones.end(), 0);
-        int target = sum / 2;
-        vector<bool> dp(target + 1, false);
-        dp[0] = true;
+    int helper(vector<int>& stones, int i, int sum, unordered_map<string,int>& dp, int cap) {
+        if (i == stones.size()) {
+            return abs(cap - 2 * sum);
+        }
+        string key = to_string(i) + "," + to_string(sum);
+        if (dp.count(key)) return dp[key];
+        int pick = helper(stones, i+1, sum + stones[i], dp, cap);
+        int skip = helper(stones, i+1, sum, dp, cap);
+        return dp[key] = min(pick, skip);
+    }
 
-        for (int stone : stones) {
-            for (int j = target; j >= stone; j--) {
-                dp[j] = dp[j] || dp[j - stone];
-            }
-        }
-        for (int j = target; j >= 0; j--) {
-            if (dp[j]) {
-                return sum - 2 * j;
-            }
-        }
-        return 0;
+    int lastStoneWeightII(vector<int>& stones) {
+        int cap = accumulate(stones.begin(), stones.end(), 0);
+        unordered_map<string,int> dp;
+        return helper(stones, 0, 0, dp, cap);
     }
 };
