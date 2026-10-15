@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1025-divisor-game) |
@@ -528,15 +529,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1025-divisor-game) |
 ## Impartial Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1025-divisor-game) |
 ## Breadth-First Search
 |  |
@@ -552,4 +556,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0518-coin-change-ii) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
