@@ -1,24 +1,24 @@
 class Solution {
 public:
     const int MOD = 1e9+7;
-    int powerx;
-    int helper(int n,int ind,vector<vector<int>>&dp){
-        if(n==0) return 1;
-        int power = 1;
-        for(int i=0;i<powerx;i++)
-            power *=ind;
-        if(power>n)
-            return 0;
-        if(dp[n][ind]!=-1) return dp[n][ind];
-        int skip = helper(n,ind+1,dp);
-        int pick = helper(n-power,ind+1,dp);
-        return  dp[n][ind]= (skip + pick) % MOD;
+    int helper(int i,int cap,int x,vector<vector<int>>&dp){
+        if(cap==0) return 1;
+        if(i==0) return 0;
+        if(dp[i][cap]!=-1) return dp[i][cap];
+        int skip = helper(i-1,cap,x,dp);
+        int pick = 0;
+        long long val = 1;
+        for(int j=0;j<x;j++) val *=i;
+        if(val<=cap){
+            pick = helper(i-1,cap-val,x,dp);
+        }
+        return dp[i][cap] = (skip+pick) % MOD;
     }
-        int numberOfWays(int n, int x) {
-        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
-        powerx = x;
-        return helper(n,1,dp);
-        
+    int numberOfWays(int n, int x) {
+        int maxBase = 1;
+        while(pow(maxBase,x)<=n) maxBase++;
+        maxBase--;
+        vector<vector<int>>dp(maxBase+1,vector<int>(n+1,-1));
+        return helper(maxBase,n,x,dp);
     }
 };
-    
