@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0263-ugly-number) |
+| [0279-perfect-squares](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0507-perfect-number) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0410-split-array-largest-sum) |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0518-coin-change-ii) |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0322-coin-change) |
 ## Monotonic Stack
@@ -557,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0518-coin-change-ii) |
 ## Minimax
