@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2469-convert-the-temperature) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2485-find-the-pivot-integer) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2929-distribute-candies-among-children-ii) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -587,4 +588,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0096-unique-binary-search-trees) |
+## Geometry
+|  |
+| ------- |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 <!---LeetCode Topics End-->
