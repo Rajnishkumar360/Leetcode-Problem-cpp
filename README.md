@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0174-dungeon-game) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0204-count-primes) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0234-palindrome-linked-list) |
