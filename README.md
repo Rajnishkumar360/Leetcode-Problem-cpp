@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0507-perfect-number) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0342-power-of-four) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1823-find-the-winner-of-the-circular-game) |
