@@ -12,13 +12,21 @@ public:
     }
     bool checkPrimeFrequency(vector<int>& nums) {
         int n = nums.size();
-        int count = 0;
-        for(int val =0;val<=100;val++){
-            int count =0;
-            for(int i=0;i<n;i++){
-                if(nums[i]==val) count++;
-            }
-            if(checkPrime(count)) return true;
+        // int count = 0;
+        // for(int val =0;val<=100;val++){
+        //     int count =0;
+        //     for(int i=0;i<n;i++){
+        //         if(nums[i]==val) count++;
+        //     }
+        //     if(checkPrime(count)) return true;
+        // }
+        // return false;
+        unordered_map<int,int>mp;
+        for(int i=0;i<n;i++){
+            mp[nums[i]]++;
+        }
+        for(auto x:mp){
+            if(checkPrime(x.second)) return true;
         }
         return false;
     }
