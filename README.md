@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2485-find-the-pivot-integer) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1903-largest-odd-number-in-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2409-count-days-spent-together](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Memoization
