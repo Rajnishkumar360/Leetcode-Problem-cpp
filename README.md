@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3870-count-commas-in-range](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3875-construct-uniform-parity-array-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2396-strictly-palindromic-number) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0342-power-of-four) |
 | [0473-matchsticks-to-square](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0473-matchsticks-to-square) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2409-count-days-spent-together](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Memoization
 |  |
