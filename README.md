@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3875-construct-uniform-parity-array-i) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3148-maximum-difference-score-in-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Number Theory
 |  |
 | ------- |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -611,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0322-coin-change) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -638,4 +642,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1037-valid-boomerang](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1037-valid-boomerang) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+## Union-Find
+|  |
+| ------- |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
