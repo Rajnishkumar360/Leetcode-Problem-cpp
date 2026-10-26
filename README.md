@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3875-construct-uniform-parity-array-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3996-even-number-of-knight-moves](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3996-even-number-of-knight-moves) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Math
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3875-construct-uniform-parity-array-i) |
+| [3996-even-number-of-knight-moves](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3996-even-number-of-knight-moves) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/4000-largest-integer-with-given-digit-sum) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Two Pointers
