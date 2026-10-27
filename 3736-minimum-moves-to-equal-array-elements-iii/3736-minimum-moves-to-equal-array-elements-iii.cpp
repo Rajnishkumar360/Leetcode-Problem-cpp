@@ -1,11 +1,17 @@
 class Solution {
 public:
     int minMoves(vector<int>& nums) {
-        int maxVal = *max_element(nums.begin(), nums.end());
-        int count = 0;
+        map<int,int> freq;
+        int maxVal = INT_MIN;
         for (int num : nums) {
-            count += (maxVal - num);
+            freq[num]++;
+            maxVal = max(maxVal, num);
         }
-        return count;
+        int moves = 0;
+        for (auto p : freq) {
+            moves += (maxVal - p.first) * p.second;
+        }
+        return moves;
     }
 };
+
