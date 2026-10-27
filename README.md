@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3663-find-the-least-frequent-digit](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3663-find-the-least-frequent-digit) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3875-construct-uniform-parity-array-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3663-find-the-least-frequent-digit](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3663-find-the-least-frequent-digit) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3870-count-commas-in-range](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3871-count-commas-in-range-ii) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3483-unique-3-digit-even-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3663-find-the-least-frequent-digit) |
 ## Design
 |  |
 | ------- |
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3663-find-the-least-frequent-digit) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
