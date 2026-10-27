@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3870-count-commas-in-range](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3875-construct-uniform-parity-array-i) |
+| [3894-traffic-signal-color](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3894-traffic-signal-color) |
 | [3996-even-number-of-knight-moves](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3996-even-number-of-knight-moves) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/4000-largest-integer-with-given-digit-sum) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/4010-maximize-pair-strength-using-gcd) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3894-traffic-signal-color](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3894-traffic-signal-color) |
 ## Memoization
 |  |
 | ------- |
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3894-traffic-signal-color](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3894-traffic-signal-color) |
 ## Queue
 |  |
 | ------- |
