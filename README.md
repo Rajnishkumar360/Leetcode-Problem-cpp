@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3870-count-commas-in-range](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3871-count-commas-in-range-ii) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Euclidean Algorithm
 |  |
