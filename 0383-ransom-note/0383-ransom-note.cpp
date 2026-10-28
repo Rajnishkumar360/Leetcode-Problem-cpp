@@ -1,18 +1,15 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        int n = ransomNote.size();
-        int m = magazine.size();
-        for(int i=0;i<n;i++){
-            bool found = false;
-            for(int j=0;j<m;j++){
-                if(ransomNote[i]==magazine[j]){
-                    magazine[j] = '*';
-                    found = true;
-                    break;
-                }
+        vector<int>freq(26,0);
+        for(char c:magazine){
+            freq[c-'a']++;
+        }
+        for(char c: ransomNote){
+            if(freq[c-'a']==0){
+                return false;
             }
-            if(!found) return false;
+            freq[c-'a']--;
         }
         return true;
     }
