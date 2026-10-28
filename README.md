@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0740-delete-and-earn](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0740-delete-and-earn) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0227-basic-calculator-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0301-remove-invalid-parentheses) |
+| [0383-ransom-note](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0415-add-strings) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3591-check-if-any-element-has-prime-frequency) |
