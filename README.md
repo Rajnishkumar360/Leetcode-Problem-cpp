@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0989-add-to-array-form-of-integer](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1037-valid-boomerang) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0136-single-number) |
 | [0342-power-of-four](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0342-power-of-four) |
 | [0473-matchsticks-to-square](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0473-matchsticks-to-square) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Dynamic Programming
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0204-count-primes) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Sieve Theory
 |  |
 | ------- |
