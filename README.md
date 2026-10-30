@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0910-smallest-range-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1037-valid-boomerang) |
 | [1049-last-stone-weight-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1049-last-stone-weight-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0910-smallest-range-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1025-divisor-game) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1037-valid-boomerang) |
 | [1137-n-th-tribonacci-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1137-n-th-tribonacci-number) |
 | [1154-day-of-the-year](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1154-day-of-the-year) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0741-cherry-pickup](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0741-cherry-pickup) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1030-matrix-cells-in-distance-order) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1463-cherry-pickup-ii) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2304-minimum-path-cost-in-a-grid) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0910-smallest-range-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0910-smallest-range-ii) |
+| [1030-matrix-cells-in-distance-order](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1030-matrix-cells-in-distance-order) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -665,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1037-valid-boomerang) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Union-Find
