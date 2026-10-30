@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2498-frog-jump-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2498-frog-jump-ii) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3483-unique-3-digit-even-numbers) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-matrix-cells-in-distance-order](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1030-matrix-cells-in-distance-order) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1903-largest-odd-number-in-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2498-frog-jump-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2498-frog-jump-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/4000-largest-integer-with-given-digit-sum) |
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -576,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0415-add-strings) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3894-traffic-signal-color](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3894-traffic-signal-color) |
 ## Queue
