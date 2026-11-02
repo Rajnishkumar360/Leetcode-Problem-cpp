@@ -6,7 +6,7 @@ public:
         int i=0;
         int j = n-1;
         long long count =0;
-        while(i<j){
+        while(i<=j){
             count += nums[j]-nums[i];
             i++;
             j--;
