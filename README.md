@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2409-count-days-spent-together) |
+| [2413-smallest-even-multiple](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2485-find-the-pivot-integer) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2413-smallest-even-multiple](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2413-smallest-even-multiple) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/4010-maximize-pair-strength-using-gcd) |
