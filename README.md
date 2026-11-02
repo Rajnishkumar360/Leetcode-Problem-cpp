@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0410-split-array-largest-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0473-matchsticks-to-square](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0473-matchsticks-to-square) |
 | [0493-reverse-pairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0494-target-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0441-arranging-coins) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0910-smallest-range-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0910-smallest-range-ii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1030-matrix-cells-in-distance-order) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1262-greatest-sum-divisible-by-three) |
