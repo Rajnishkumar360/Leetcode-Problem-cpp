@@ -1,12 +1,15 @@
 class Solution {
 public:
     int minMoves2(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
         int n = nums.size();
-        int median = nums[n/2];
-        long long count = 0;
-        for(int num:nums){
-            count += abs(num-median);
+        sort(nums.begin(),nums.end());
+        int i=0;
+        int j = n-1;
+        long long count =0;
+        while(i<j){
+            count += nums[j]-nums[i];
+            i++;
+            j--;
         }
         return (int)count;
     }
