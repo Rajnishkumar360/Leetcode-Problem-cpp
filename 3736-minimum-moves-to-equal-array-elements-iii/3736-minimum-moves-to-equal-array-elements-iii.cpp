@@ -7,11 +7,11 @@ public:
             freq[num]++;
             maxVal = max(maxVal, num);
         }
-        int moves = 0;
-        for (auto p : freq) {
-            moves += (maxVal - p.first) * p.second;
+        int count = 0;
+        for (auto x : freq) {
+            count += (maxVal - x.first) * x.second;
         }
-        return moves;
+        return count;
     }
 };
 
