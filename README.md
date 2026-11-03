@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0459-repeated-substring-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0856-score-of-parentheses) |
@@ -532,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
@@ -698,4 +700,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
