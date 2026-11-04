@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0910-smallest-range-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0740-delete-and-earn](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0740-delete-and-earn) |
+| [0888-fair-candy-swap](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0888-fair-candy-swap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1695-maximum-erasure-value) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0888-fair-candy-swap](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0888-fair-candy-swap) |
 | [0910-smallest-range-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0910-smallest-range-ii) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1030-matrix-cells-in-distance-order) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1262-greatest-sum-divisible-by-three) |
