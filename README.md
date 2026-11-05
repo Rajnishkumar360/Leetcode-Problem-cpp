@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1154-day-of-the-year](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1154-day-of-the-year) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0910-smallest-range-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1903-largest-odd-number-in-string) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1021-remove-outermost-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0503-next-greater-element-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Complete Knapsack
 |  |
 | ------- |
