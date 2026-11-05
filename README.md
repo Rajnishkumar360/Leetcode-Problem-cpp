@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0605-can-place-flowers) |
 | [0740-delete-and-earn](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0746-min-cost-climbing-stairs) |
@@ -490,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0410-split-array-largest-sum) |
+| [0605-can-place-flowers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0910-smallest-range-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
