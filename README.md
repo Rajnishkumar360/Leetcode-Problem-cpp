@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1463-cherry-pickup-ii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1539-kth-missing-positive-number) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0410-split-array-largest-sum) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2485-find-the-pivot-integer) |
 ## Stack
