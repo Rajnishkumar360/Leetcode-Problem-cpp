@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1695-maximum-erasure-value) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1865-finding-pairs-with-a-certain-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1865-finding-pairs-with-a-certain-sum) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1903-largest-odd-number-in-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2409-count-days-spent-together](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3663-find-the-least-frequent-digit) |
