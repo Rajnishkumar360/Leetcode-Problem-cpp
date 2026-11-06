@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3483-unique-3-digit-even-numbers) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3524-find-x-value-of-array-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3483-unique-3-digit-even-numbers) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3663-find-the-least-frequent-digit](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3663-find-the-least-frequent-digit) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2498-frog-jump-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2498-frog-jump-ii) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4000-largest-integer-with-given-digit-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Prefix Sum
