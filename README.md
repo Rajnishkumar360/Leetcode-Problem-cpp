@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0605-can-place-flowers) |
 | [0740-delete-and-earn](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0740-delete-and-earn) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0908-smallest-range-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0908-smallest-range-i) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0523-continuous-subarray-sum) |
 | [0740-delete-and-earn](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0740-delete-and-earn) |
 | [0888-fair-candy-swap](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0888-fair-candy-swap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0523-continuous-subarray-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1991-find-the-middle-index-in-array) |
@@ -744,4 +748,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0547-number-of-provinces) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
