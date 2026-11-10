@@ -14,9 +14,11 @@ public:
         while(st < end){
             if(!isVowel(s[st])){
                 st++;
+                continue;
             }
             else if(!isVowel(s[end])){
                 end--;
+                continue;
             }
             else{
                 swap(s[st], s[end]);
