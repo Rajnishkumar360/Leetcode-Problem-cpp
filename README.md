@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0234-palindrome-linked-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0227-basic-calculator-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0301-remove-invalid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0412-fizz-buzz) |
