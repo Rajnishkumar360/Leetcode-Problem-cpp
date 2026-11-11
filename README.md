@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0896-monotonic-array) |
 | [0908-smallest-range-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0908-smallest-range-i) |
 | [0910-smallest-range-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0910-smallest-range-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [0989-add-to-array-form-of-integer](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1030-matrix-cells-in-distance-order](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1030-matrix-cells-in-distance-order) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0740-delete-and-earn](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0740-delete-and-earn) |
 | [0888-fair-candy-swap](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0888-fair-candy-swap) |
+| [0930-binary-subarrays-with-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1695-maximum-erasure-value) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1695-maximum-erasure-value) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0713-subarray-product-less-than-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1991-find-the-middle-index-in-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1991-find-the-middle-index-in-array) |
