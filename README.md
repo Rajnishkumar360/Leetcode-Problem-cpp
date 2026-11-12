@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0342-power-of-four) |
 | [0473-matchsticks-to-square](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0473-matchsticks-to-square) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0441-arranging-coins) |
@@ -615,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0096-unique-binary-search-trees) |
+| [0222-count-complete-tree-nodes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0222-count-complete-tree-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -626,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0096-unique-binary-search-trees) |
+| [0222-count-complete-tree-nodes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0222-count-complete-tree-nodes) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
