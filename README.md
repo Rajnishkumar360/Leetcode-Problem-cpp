@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3354-make-array-elements-equal-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3483-unique-3-digit-even-numbers) |
