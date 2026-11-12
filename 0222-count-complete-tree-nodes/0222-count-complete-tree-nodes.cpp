@@ -32,7 +32,7 @@ public:
        int lh = leftHeight(root);
        int rh = rightHeight(root);
        if(lh==rh){
-        return(1<<lh)-1;
+        return pow(2,lh)-1;
        }
        return 1+countNodes(root->left) + countNodes(root->right);
     }
