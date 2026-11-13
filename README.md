@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3477-fruits-into-baskets-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3524-find-x-value-of-array-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3524-find-x-value-of-array-i) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2498-frog-jump-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2498-frog-jump-ii) |
+| [3477-fruits-into-baskets-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3477-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0493-reverse-pairs) |
+| [3477-fruits-into-baskets-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3477-fruits-into-baskets-ii) |
 ## Treap
 |  |
 | ------- |
@@ -668,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3477-fruits-into-baskets-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3477-fruits-into-baskets-ii) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3894-traffic-signal-color](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3894-traffic-signal-color) |
 ## Queue
