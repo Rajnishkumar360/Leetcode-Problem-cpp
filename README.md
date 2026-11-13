@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0876-middle-of-the-linked-list) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0342-power-of-four) |
 | [0473-matchsticks-to-square](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0473-matchsticks-to-square) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0493-reverse-pairs) |
@@ -699,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0287-find-the-duplicate-number) |
 ## Bitmask
 |  |
 | ------- |
@@ -791,5 +796,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
