@@ -630,11 +630,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0145-binary-tree-postorder-traversal) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0547-number-of-provinces) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0222-count-complete-tree-nodes) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
 |  |
@@ -808,4 +811,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0523-continuous-subarray-sum) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
