@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3148-maximum-difference-score-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3148-maximum-difference-score-in-a-grid) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3364-minimum-positive-sum-subarray) |
 | [3477-fruits-into-baskets-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3477-fruits-into-baskets-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1695-maximum-erasure-value) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3364-minimum-positive-sum-subarray) |
 ## Matrix
 |  |
 | ------- |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2485-find-the-pivot-integer) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3364-minimum-positive-sum-subarray) |
 ## Stack
 |  |
 | ------- |
