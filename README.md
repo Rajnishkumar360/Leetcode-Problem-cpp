@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0064-minimum-path-sum) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0078-subsets) |
 | [0093-restore-ip-addresses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0131-palindrome-partitioning) |
@@ -826,4 +828,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
