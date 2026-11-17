@@ -11,15 +11,22 @@
  */
 class Solution {
 public:
-    int helper(TreeNode* root,int currValue){
-            if(root==NULL) return 0;
-            currValue = (currValue*2) | root->val;
-            if(root->left==NULL && root->right==NULL){
-                return currValue;
-            }
-            return helper(root->left,currValue) + helper(root->right,currValue);
+    int binaryDecimal(string s){
+        int decValue = 0;
+        for(char c:s){
+            decValue = decValue*2+(c-'0');
+        }
+        return decValue;
+    }
+    int helper(TreeNode*root,string path){
+        if(root == NULL) return 0;
+        path += to_string(root->val);
+        if(root->left==NULL && root->right==NULL){
+            return binaryDecimal(path);
+        }
+        return helper(root->left,path) + helper(root->right,path);
     }
     int sumRootToLeaf(TreeNode* root) {
-        return helper(root,0);
+        return helper(root,"");
     }
 };
