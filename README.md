@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0131-palindrome-partitioning) |
@@ -637,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
@@ -736,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0131-palindrome-partitioning) |
 | [0301-remove-invalid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0357-count-numbers-with-unique-digits) |
@@ -816,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0096-unique-binary-search-trees) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Geometry
