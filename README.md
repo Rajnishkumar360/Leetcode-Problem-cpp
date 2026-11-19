@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2485-find-the-pivot-integer) |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2929-distribute-candies-among-children-ii) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2498-frog-jump-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2498-frog-jump-ii) |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [3477-fruits-into-baskets-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3477-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2413-smallest-even-multiple) |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/4010-maximize-pair-strength-using-gcd) |
@@ -866,4 +869,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0051-n-queens) |
+## Least Common Multiple
+|  |
+| ------- |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2513-minimize-the-maximum-of-two-arrays) |
+## Inclusion-Exclusion Principle
+|  |
+| ------- |
+| [2513-minimize-the-maximum-of-two-arrays](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 <!---LeetCode Topics End-->
