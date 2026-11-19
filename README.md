@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2498-frog-jump-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2498-frog-jump-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2772-apply-operations-to-make-all-array-elements-equal-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2772-apply-operations-to-make-all-array-elements-equal-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1262-greatest-sum-divisible-by-three) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -560,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2498-frog-jump-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2498-frog-jump-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3727-maximum-alternating-sum-of-squares) |
