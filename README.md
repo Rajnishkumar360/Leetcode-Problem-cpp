@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1025-divisor-game) |
 | [1049-last-stone-weight-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1463-cherry-pickup-ii) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1143-longest-common-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1143-longest-common-subsequence) |
 | [1154-day-of-the-year](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1154-day-of-the-year) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -877,4 +879,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2513-minimize-the-maximum-of-two-arrays) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
