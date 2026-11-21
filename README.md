@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0096-unique-binary-search-trees) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0125-valid-palindrome) |
