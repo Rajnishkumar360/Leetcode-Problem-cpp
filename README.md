@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0518-coin-change-ii) |
 | [0576-out-of-boundary-paths](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0576-out-of-boundary-paths) |
 | [0678-valid-parenthesis-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0678-valid-parenthesis-string) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0740-delete-and-earn](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0746-min-cost-climbing-stairs) |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0709-to-lower-case) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -886,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
