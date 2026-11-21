@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0518-coin-change-ii) |
 | [0576-out-of-boundary-paths](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0576-out-of-boundary-paths) |
 | [0678-valid-parenthesis-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0678-valid-parenthesis-string) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0459-repeated-substring-pattern) |
+| [0516-longest-palindromic-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0709-to-lower-case) |
