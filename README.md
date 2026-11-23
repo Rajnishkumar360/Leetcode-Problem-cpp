@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2929-distribute-candies-among-children-ii) |
+| [3099-harshad-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3099-harshad-number) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
