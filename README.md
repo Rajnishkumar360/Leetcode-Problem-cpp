@@ -264,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0063-unique-paths-ii) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0093-restore-ip-addresses) |
@@ -569,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0044-wildcard-matching) |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0605-can-place-flowers) |
@@ -712,6 +715,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0224-basic-calculator) |
