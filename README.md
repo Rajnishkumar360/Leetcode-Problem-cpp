@@ -439,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3407-substring-matching-pattern](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3407-substring-matching-pattern) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1668-maximum-repeating-substring) |
+| [3407-substring-matching-pattern](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3407-substring-matching-pattern) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
