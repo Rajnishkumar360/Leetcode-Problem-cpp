@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2929-distribute-candies-among-children-ii) |
 | [3099-harshad-number](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3099-harshad-number) |
+| [3360-stone-removal-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3360-stone-removal-game) |
 | [3405-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3405-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3524-find-x-value-of-array-i) |
@@ -763,6 +764,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3354-make-array-elements-equal-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3354-make-array-elements-equal-to-zero) |
+| [3360-stone-removal-game](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3360-stone-removal-game) |
 | [3477-fruits-into-baskets-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3477-fruits-into-baskets-ii) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3894-traffic-signal-color](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3894-traffic-signal-color) |
