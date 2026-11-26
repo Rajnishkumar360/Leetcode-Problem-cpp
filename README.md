@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0605-can-place-flowers) |
 | [0713-subarray-product-less-than-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0746-min-cost-climbing-stairs) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0576-out-of-boundary-paths) |
 | [0678-valid-parenthesis-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0746-min-cost-climbing-stairs) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0875-koko-eating-bananas](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0713-subarray-product-less-than-k) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0930-binary-subarrays-with-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/1695-maximum-erasure-value) |
@@ -928,4 +932,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0455-assign-cookies) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
