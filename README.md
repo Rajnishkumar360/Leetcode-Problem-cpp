@@ -968,4 +968,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
