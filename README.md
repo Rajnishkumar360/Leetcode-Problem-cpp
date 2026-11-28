@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0605-can-place-flowers) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0740-delete-and-earn) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0542-01-matrix) |
 | [0576-out-of-boundary-paths](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0576-out-of-boundary-paths) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -369,11 +371,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0493-reverse-pairs) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/3477-fruits-into-baskets-ii) |
 ## Merge Sort
@@ -952,4 +956,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
