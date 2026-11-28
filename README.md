@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0413-arithmetic-slices) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0413-arithmetic-slices) |
 | [0473-matchsticks-to-square](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0516-longest-palindromic-subsequence) |
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0424-longest-repeating-character-replacement) |
 | [0713-subarray-product-less-than-k](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Rajnishkumar360/Leetcode-Problem-cpp/tree/master/0718-maximum-length-of-repeated-subarray) |
